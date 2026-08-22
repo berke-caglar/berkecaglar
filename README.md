@@ -3,8 +3,7 @@
 
 <p align="center">
 I build full-stack products end to end — database schema to deployed UI, web and mobile.
-Currently building <a href="https://github.com/berke-caglar/opsyo-demo">Opsyo</a>, a multi-tenant SaaS platform for clinics
-(<a href="https://opsyo.berkee-caglaar.workers.dev/demo">live web demo</a> · <a href="https://opsyo-mobile-demo.berkee-caglaar.workers.dev">live mobile demo</a>).
+Currently building <a href="https://github.com/berke-caglar/opsyo-demo">Opsyo</a>, a multi-tenant SaaS platform for clinics.
 </p>
 
 <p align="center">
@@ -32,9 +31,4 @@ Currently building <a href="https://github.com/berke-caglar/opsyo-demo">Opsyo</a
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=berkecaglar&show_icons=true&locale=en&theme=default&hide_border=true" alt="berkecaglar" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=berkecaglar&show_icons=true&locale=en&layout=compact&hide_border=true" alt="berkecaglar" height="165"/>
 </p>
