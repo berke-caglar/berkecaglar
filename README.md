@@ -3,7 +3,7 @@
 
 <p align="center">
 I build full-stack products end to end — database schema to deployed UI, web and mobile.
-Currently building <a href="https://github.com/berke-caglar/opsyo-demo">Opsyo</a>, a multi-tenant SaaS platform for clinics.
+Comfortable across the stack, from backend architecture to polished frontend interfaces.
 </p>
 
 <p align="center">
